@@ -111,7 +111,7 @@ jupyter notebook aurora_siger.ipynb
     • Carga Atual          : 95.0%
     • Consumo na Decolagem : 120.0 kWh
     • Perdas Energéticas   : 8.0%
-    • Autonomia Estimada   : 93.75 horas
+    • Autonomia Estimada   : 8.88 horas
 
   INICIANDO SEQUÊNCIA DE IGNIÇÃO...
 ============================================================
